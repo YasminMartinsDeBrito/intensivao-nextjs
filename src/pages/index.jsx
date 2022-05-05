@@ -17,6 +17,7 @@ export default function Home(){
             <Navegador  cor='purple' texto='clientId #02' destino='/cliente/hellena/12'/>
             <Navegador  cor='pink' texto='componte estado' destino='/estado'/>
             <Navegador  cor='orange' texto='integracao com API #01' destino='/integracao_1'/>
+            <Navegador  cor='#fa054a' texto='conteudo estatico' destino='/integracao_1'/>
         </div>
     )
 }
